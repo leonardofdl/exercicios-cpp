@@ -99,7 +99,26 @@ O programa calcula o salário bruto, o desconto aplicado e o salário líquido.
 
 ---
 
+### 6️⃣ Cálculo de Consumo de Energia Elétrica
+📄 Arquivo: `calculo_consumo_energia.cpp`
+
+**Descrição:**  
+Recebe o valor do salário mínimo e a quantidade de kW consumida por uma residência.  
+Com base na regra de que **100 kW correspondem a 1/7 do salário mínimo**, o programa calcula:
+- o valor de cada kW
+- o valor total a ser pago
+- o valor total com **10% de desconto**
+
+**Conceitos praticados:**
+- Operações matemáticas
+- Uso de variáveis do tipo `float`
+- Cálculo de porcentagem
+- Simulação de situação real
+- Entrada e saída de dados
+
+---
+
 ## ▶️ Como executar
 
 1. Escolha o arquivo desejado
-2. Compile utilizando um compilador C++
+2. Compile utilizando um compilador C++  
